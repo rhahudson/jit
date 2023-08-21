@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rhahudson/jit.git/static/css/main.80a945ba.css",
+    "main.js": "/rhahudson/jit.git/static/js/main.032816b5.js",
+    "static/js/787.128fc6e9.chunk.js": "/rhahudson/jit.git/static/js/787.128fc6e9.chunk.js",
+    "index.html": "/rhahudson/jit.git/index.html",
+    "main.80a945ba.css.map": "/rhahudson/jit.git/static/css/main.80a945ba.css.map",
+    "main.032816b5.js.map": "/rhahudson/jit.git/static/js/main.032816b5.js.map",
+    "787.128fc6e9.chunk.js.map": "/rhahudson/jit.git/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a945ba.css",
+    "static/js/main.032816b5.js"
+  ]
+}
